@@ -2,31 +2,29 @@
 
 <img src="./img/github-header-banner.svg" alt="Cristan Jay Otiong — Computer Engineering Student and Software Developer" width="100%" />
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-esoes1.pythonanywhere.com-2EA44F?style=flat-square&logo=googlechrome&logoColor=white)](https://esoes1.pythonanywhere.com)
-[![Source Code](https://img.shields.io/badge/Source_Code-ESOES-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cjotiong5-ui/ESOES)
-[![Email](https://img.shields.io/badge/Email-you%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-you%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristanotiong064@gmail.com)
 
 </div>
 
 ---
 
-## 🔍 About
+##  About
 
 - Building **ESOES CampusFlow**, an online enrollment system for the engineering programs of the Philippine College of Science and Technology (PhilCST) — students on one side, the Registrar on the other.
 - Building it end to end: Flask API, SQLite schema and migrations, a vanilla-JS student portal, OAuth 2.1 + JWT auth, and a manual PythonAnywhere deployment.
-- 🎓 Computer Engineering student at PhilCST.
-- 🛠️ I care about systems that stay correct under real pressure: seat-capacity races, duplicate enrollments, half-finished imports.
-- 🌏 From Aguilar, Pangasinan.
+-  Computer Engineering student at PhilCST.
+-  I care about systems that stay correct under real pressure: seat-capacity races, duplicate enrollments, half-finished imports.
+-  From Aguilar, Pangasinan.
 
 ---
 
-## 🗂 Selected Work
+##  Selected Work
 
 <table>
 <tr>
 <td valign="top">
 
-### 🎓 ESOES CampusFlow
+###  ESOES CampusFlow
 <sub><em>Online enrollment system · Student portal + Registrar console</em></sub>
 
 Replaces the paper enrollment queue for five engineering programs. A student verifies their email, picks a block section that matches their curriculum, reviews every subject and unit, and submits — or gets routed to the Registrar if they are irregular. The Registrar builds sections and timetables, imports whole class lists, and approves or returns each request with a note.
@@ -61,7 +59,7 @@ Replaces the paper enrollment queue for five engineering programs. A student ver
 
 ---
 
-## 🧰 Stack
+##  Stack
 
 <sub><strong>Frontend</strong></sub><br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -91,7 +89,7 @@ Replaces the paper enrollment queue for five engineering programs. A student ver
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cjotiong5-ui&theme=shadow_blue&hide_border=true" alt="GitHub Streak" />
