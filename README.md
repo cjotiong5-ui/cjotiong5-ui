@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./img/github-header-banner.png" alt="Header" width="100%" />
-
-# Cristan Jay Otiong
-
-**Computer Engineering Student · Software Developer**
+<img src="./img/github-header-banner.svg" alt="Cristan Jay Otiong — Computer Engineering Student and Software Developer" width="100%" />
 
 <a href="https://github.com/cjotiong5-ui"><img src="https://img.shields.io/badge/GitHub-cjotiong5--ui-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- Add when ready:
