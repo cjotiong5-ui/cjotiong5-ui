@@ -4,7 +4,7 @@
 
 # Cristan Jay Otiong
 
-**Computer Engineering Student · Developer · Builder**
+**Computer Engineering Student · Software Developer**
 
 <a href="https://github.com/cjotiong5-ui"><img src="https://img.shields.io/badge/GitHub-cjotiong5--ui-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- Add when ready:
@@ -15,22 +15,22 @@
 
 ---
 
-## 👤 About
+## About
 
-I build software end to end, from database schema to a working system people can actually use.
+I design and build software end to end, from database schema to a working system people can actually use.
 
-- 🎓 Computer Engineering student at **Philippine College of Science and Technology (PhilCST)**
-- 🛠️ Building web-based systems for academic and institutional use
-- 📍 Calasiao, Pangasinan, Philippines
+- Computer Engineering student at Philippine College of Science and Technology (PhilCST)
+- Building web-based systems for academic and institutional use
+- Calasiao, Pangasinan, Philippines
 
 ---
 
-## 🧩 Selected Work
+## Selected Work
 
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>🎓 ESOES — Engineering Student Enrollment System</h3>
+      <h3>ESOES — Engineering Student Enrollment System</h3>
       <sub><b>Enrollment and records platform</b></sub>
       <p>
         <!-- TODO: replace with the final ESOES summary -->
@@ -40,14 +40,14 @@ I build software end to end, from database schema to a working system people can
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <br/><br/>
-      <!-- <a href="REPO_URL">View repository →</a> -->
+      <!-- <a href="REPO_URL">View repository</a> -->
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Stack
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -64,7 +64,7 @@ I build software end to end, from database schema to a working system people can
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cjotiong5-ui&theme=shadow_blue&hide_border=true" alt="GitHub Streak" />
@@ -72,10 +72,10 @@ I build software end to end, from database schema to a working system people can
 
 ---
 
-## 🎮 Play With Me
+## Contribution Activity
 
 <details>
-<summary><b>👾 Pac-Man Contribution Graph</b></summary>
+<summary><b>Pac-Man Contribution Graph</b></summary>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/cjotiong5-ui/cjotiong5-ui/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
@@ -83,7 +83,7 @@ I build software end to end, from database schema to a working system people can
 </details>
 
 <details>
-<summary><b>🐍 Contribution Snake</b></summary>
+<summary><b>Contribution Snake</b></summary>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/cjotiong5-ui/cjotiong5-ui/snake-output/snake.svg" alt="GitHub Contribution Snake" />
