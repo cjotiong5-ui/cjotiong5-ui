@@ -2,7 +2,7 @@
 
 <img src="./img/github-header-banner.svg" alt="Cristan Jay Otiong — Computer Engineering Student and Software Developer" width="100%" />
 
-[![Email](https://img.shields.io/badge/Email-you%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristanotiong064@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cristanotiong064@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristanotiong064@gmail.com)
 
 </div>
 
